@@ -16,7 +16,7 @@
   --text-color: hsl(var(--hue), 4%, 35%);
   --text-color-light: hsl(var(--hue), 4%, 55%);
   --body-color: hsl(var(--hue), 0%, 100%);
-  --container-color: #fff;
+  --container-color: #FFF;
 
   /*========== Font and typography ==========*/
   /*.5rem = 8px | 1rem = 16px ...*/
@@ -965,7 +965,7 @@ the website, in dark theme
   }
 
   .home__img {
-    width: 350px;
+    width: 480px;
   }
 
   .home__description {
